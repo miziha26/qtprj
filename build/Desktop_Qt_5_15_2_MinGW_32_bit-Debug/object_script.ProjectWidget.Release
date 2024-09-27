@@ -1,0 +1,11 @@
+release/calculatorwindow.o
+release/logindialog.o
+release/main.o
+release/playerwindow.o
+release/projectwidget.o
+release/toolform.o
+release/moc_calculatorwindow.o
+release/moc_logindialog.o
+release/moc_playerwindow.o
+release/moc_projectwidget.o
+release/moc_toolform.o

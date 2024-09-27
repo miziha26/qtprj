@@ -1,0 +1,11 @@
+debug/calculatorwindow.o
+debug/logindialog.o
+debug/main.o
+debug/playerwindow.o
+debug/projectwidget.o
+debug/toolform.o
+debug/moc_calculatorwindow.o
+debug/moc_logindialog.o
+debug/moc_playerwindow.o
+debug/moc_projectwidget.o
+debug/moc_toolform.o

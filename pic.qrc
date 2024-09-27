@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/bk.jpg</file>
+        <file>pic/prev.png</file>
+        <file>pic/stop.png</file>
+        <file>pic/next.png</file>
+        <file>pic/like2.png</file>
+        <file>pic/like1.png</file>
+        <file>pic/volume.png</file>
+        <file>pic/shun.png</file>
+        <file>pic/heizi.png</file>
+        <file>pic/ikun.png</file>
+    </qresource>
+</RCC>
